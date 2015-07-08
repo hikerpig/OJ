@@ -1,0 +1,6 @@
+*.sw[opn]
+
+Pods/
+.idea/
+
+.env
